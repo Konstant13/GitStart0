@@ -5,6 +5,7 @@ Git
 ------
   * Книга "Git Community Book"
         http://book.git-scm.com/
+        https://git-scm.com/book/ru/v2/
   * Книга "Git Magic"
         http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
   * Сравнение команд Git-SVN
