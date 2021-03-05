@@ -3,6 +3,8 @@ Git
 
 Ссылки
 ------
+  * Видеоуроки
+        https://habr.com/ru/post/322424/
   * Книга "Git Community Book"
         http://book.git-scm.com/
         https://git-scm.com/book/ru/v2/
