@@ -12,7 +12,11 @@ Git
         http://www-cs-students.stanford.edu/~blynn/gitmagic/index.html
   * Сравнение команд Git-SVN
         http://git.or.cz/course/svn.html
-
+  *Статьи
+        https://habr.com/ru/post/161009/
+        https://javarush.ru/groups/posts/2818-podruzhim-git-s-intellij-idea
+        https://rustycrate.ru/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%B0/2016/03/07/contributing.html
+        https://techrocks.ru/2020/02/09/first-pull-request-on-github/
 
 Установка
 ---------
